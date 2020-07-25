@@ -9,7 +9,7 @@ setup_paths();
 video_path = './sequences/truck2';
 [seq, ground_truth] = load_video_info(video_path);
 
-% Run ECO
+% Run TB_BiCF
 results = run_TB_BiCF(seq);
 
 close all;
