@@ -20,7 +20,7 @@ The feature extraction modules and some of the parameters are borrowed from the 
 
 This paper has been published by IEEE Transactions on Circuits and Systems for Video Technology.
 
-You can found this paper at here: https://ieeexplore.ieee.org/document/9195004.
+You can found this paper here: https://ieeexplore.ieee.org/document/9195004.
 
 If you want to refer to this paper, please cite it as：
 
