@@ -16,7 +16,7 @@ Run `demo_TB_BiCF.m` script to test the tracker.
 
 The feature extraction modules and some of the parameters are borrowed from the ECO tracker (https://github.com/martin-danelljan/ECO).
 
-# Publishment and citation
+# Publication and citation
 
 This paper has been published by IEEE Transactions on Circuits and Systems for Video Technology.
 
